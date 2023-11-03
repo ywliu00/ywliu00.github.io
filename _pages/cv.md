@@ -20,7 +20,6 @@ Research Experience
   - Nanjing University, Jul 2022 - Sept 2022, advisor: Prof. [Bingkai Lin](https://sites.google.com/site/bingkai314159)
 
 <!-- Work experience -->
-======
 <!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -59,5 +58,4 @@ Talks
   {% endfor %}</ul> -->
   
 <!-- Service and leadership -->
-======
 <!-- * Currently signed in to 43 different slack teams -->
