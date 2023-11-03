@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yuwei Liu (刘裕炜), a first-year MSc. student in [BASICS lab](https://basics.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://basics.sjtu.edu.cn/). I'm advised by Professor [Yijia Chen](https://basics.sjtu.edu.cn/~chen/).
+I am Yuwei Liu (刘裕炜), a first-year MSc. student in [BASICS lab](https://basics.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/). I'm advised by Professor [Yijia Chen](https://basics.sjtu.edu.cn/~chen/).
 
 Research Interests
 ======
