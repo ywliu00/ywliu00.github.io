@@ -3,7 +3,7 @@ title: "Improved Lower Bounds for Approximating Parameterized Nearest Codeword a
 collection: publications
 permalink: /publication/2023-Gap-NCP-ETH
 excerpt: 'We improved the ETH-based lower bound of constant approximating $k$-NCP and related problems to $n^{\Omega(k^{\varepsilon})}$ for some $\varepsilon>0$.'
-date: 2023
+date: 2023-11-4
 venue: 'Manuscript'
 paperurl: 'http://ywliu00.github.io/files/Gap_NCP_ETH.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
