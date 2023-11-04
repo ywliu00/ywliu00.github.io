@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Improved Lower Bounds for Approximating Parameterized Nearest Codeword and Related Problems under ETH [\[pdf\]](/files/Gap_NCP_ETH.pdf)
-  
-  Shuangle Li, Bingkai Lin, **Yuwei Liu**<br>
+* Improved Lower Bounds for Approximating Parameterized Nearest Codeword and Related Problems under ETH [\[pdf\]](/files/Gap_NCP_ETH.pdf)<br>
+  Shuangle Li, [Bingkai Lin](https://sites.google.com/site/bingkai314159), **Yuwei Liu**<br>
   *Manuscript*, 2023
 
 <!-- We improved the ETH-based lower bound of constant approximating $k$-NCP and related problems to $n^{\Omega(k^{\varepsilon})}$ for some $\varepsilon>0$. -->
