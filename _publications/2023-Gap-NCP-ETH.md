@@ -13,4 +13,6 @@ We improved the ETH-based lower bound of constant approximating $k$-NCP and rela
 
 [pdf](http://ywliu00.github.io/files/Gap_NCP_ETH.pdf)
 
+[slides at AAAC 2024](http://ywliu00.github.io/files/slides/AAAC2024.pdf)
+
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
