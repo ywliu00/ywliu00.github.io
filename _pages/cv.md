@@ -11,54 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.E. in Computer Science and Engineering, Beihang University, 2018 - 2023, advisor: Prof. [Angsheng Li](https://scse.buaa.edu.cn/info/1078/5403.htm)
+* M.S. in Computer Science and Engineering, Shanghai Jiao Tong University, 2023 - current, advisor: Prof. [Yijia Chen](https://basics.sjtu.edu.cn/~chen/)
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Undergraduate Research Intern
+  - Nanjing University, Nanjing, China. Jul 2022 - Sept 2022, advisor: Prof. [Bingkai Lin](https://sites.google.com/site/bingkai314159).
+* International Intern
+  - National Institute of Informatics, Tokyo, Japan. Oct 2024 - Jan 2025, advisor: Dr. [Shuichi Hirahara](https://researchmap.jp/shuichi.hirahara/).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* [Best Student Presentation Award](http://ywliu00.github.io/files/certificates/2024_AAAC_best_stu_pre.pdf), AAAC 2024, Osaka, Japan.
