@@ -24,3 +24,8 @@ Research Experience
 Awards
 ======
 * [Best Student Presentation Award](http://ywliu00.github.io/files/certificates/2024_AAAC_best_stu_pre.pdf), AAAC 2024, Osaka, Japan.
+
+Languages
+======
+* Chinese: Native.
+* English: TOEFL iBT 104.
