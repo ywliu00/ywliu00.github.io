@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science and Engineering, Shanghai Jiao Tong University, 2023 - current, advisor: Prof. [Yijia Chen](https://basics.sjtu.edu.cn/~chen/)
-* B.E. in Computer Science and Engineering, Beihang University, 2018 - 2023, advisor: Prof. [Angsheng Li](https://scse.buaa.edu.cn/info/1078/5403.htm)
+* M.S. in Computer Science and Engineering, Shanghai Jiao Tong University, 2023 - current, advisor: Prof. [Yijia Chen](https://basics.sjtu.edu.cn/~chen/).
+* B.E. in Computer Science and Engineering, Beihang University, 2018 - 2023, advisor: Prof. [Angsheng Li](https://scse.buaa.edu.cn/info/1078/5403.htm).
 
 Research Experience
 ======
