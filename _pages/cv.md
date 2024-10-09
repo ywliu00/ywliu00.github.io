@@ -17,7 +17,7 @@ Education
 Research Experience
 ======
 * International Intern
-  - National Institute of Informatics, Tokyo, Japan. Oct 2024 - Jan 2025, advisor: Dr. [Shuichi Hirahara](https://researchmap.jp/shuichi.hirahara/).
+  - National Institute of Informatics, Tokyo, Japan. Oct 2024 - Jan 2025, advisor: Dr. [Shuichi Hirahara](https://researchmap.jp/shuichi.hirahara/?lang=en).
 * Undergraduate Research Intern
   - Nanjing University, Nanjing, China. Jul 2022 - Sept 2022, advisor: Prof. [Bingkai Lin](https://sites.google.com/site/bingkai314159).
 
