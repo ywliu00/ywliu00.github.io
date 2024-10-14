@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* On Average Baby PIH and Its Applications. [\[PDF\]](https://ywliu00.github.io/articles/AverageBabyPIH.pdf)<br>
+* On Average Baby PIH and Its Applications. [\[PDF\]](https://ywliu00.github.io/files/articles/AverageBabyPIH.pdf)<br>
   **Yuwei Liu**, [Yijia Chen](https://basics.sjtu.edu.cn/~chen/), Shuangle Li, [Bingkai Lin](https://sites.google.com/site/bingkai314159), Xin Zheng.<br>
   Manuscript, 2024.<br>
 
