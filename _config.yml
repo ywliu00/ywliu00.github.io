@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yuwei Liu" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yuwei Liu"
-description              : &description "MSc student in BASICS, Shanghai Jiao Tong University"
+description              : &description "Ph.D. student in SOKENDAI/NII."
 url                      : https://ywliu00.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ywliu00.github.io"
@@ -24,11 +24,11 @@ author:
   name             : "Yuwei Liu"
   avatar           : "photo.jpg"
   pronouns         : # example: "she/her"  
-  bio              : "MSc student in Shanghai Jiao Tong University, majored in theoretical computer science."
-  location         : "Shanghai, P.R.China"
+  bio              : "Ph.D. student in SOKENDAI/NII, majored in theoretical computer science."
+  location         : "Tokyo, Japan"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "yuwei.liu@sjtu.edu.cn" 
+  email            : "yuwei_liu@nii.ac.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
