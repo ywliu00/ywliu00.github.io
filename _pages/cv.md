@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Science and Engineering, Shanghai Jiao Tong University, 2023 - current, advisor: Prof. [Yijia Chen](https://basics.sjtu.edu.cn/~chen/).
-* B.E. in Computer Science and Engineering, Beihang University, 2018 - 2023, advisor: Prof. [Angsheng Li](https://scse.buaa.edu.cn/info/1078/5403.htm).
+* Ph.D. in Informatics, The Graduate University for Advanced Studies, SOKENDAI & National Institute of Informatics, Japan, 2026 - present, advisor: Dr. [Shuichi Hirahara](https://researchmap.jp/shuichi.hirahara/?lang=en).
+* M.Eng. in Computer Science and Engineering, Shanghai Jiao Tong University, P.R. China, 2023 - 2026, advisor: Prof. [Yijia Chen](https://basics.sjtu.edu.cn/~chen/). [Master Thesis (in Chinese)](https://ywliu00.github.io/files/articles/2026_MasterThesis.pdf)
+* B.E. in Computer Science and Engineering, Beihang University, P.R. China, 2018 - 2023, advisor: Prof. [Angsheng Li](https://scse.buaa.edu.cn/info/1078/5403.htm).
 
 Research Experience
 ======
@@ -28,4 +29,5 @@ Awards
 Languages
 ======
 * Chinese: Native.
-* English: TOEFL iBT 104.
+* English: CEFR B2.
+* Japanese: 注文するくらいなら大丈夫です。
